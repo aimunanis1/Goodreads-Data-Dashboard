@@ -41,4 +41,6 @@ This dashboard showcases:
 ---
 
 Happy Exploring! 🚀📊  
+link to dashboard on Tableau Public
+https://public.tableau.com/shared/G862S6WCR?:display_count=n&:origin=viz_share_link
 **Created with ❤️ in Tableau**  
