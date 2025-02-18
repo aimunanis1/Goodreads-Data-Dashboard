@@ -38,9 +38,8 @@ This dashboard showcases:
 - **Tableau Public** 🎨  
 - **Goodreads Dataset** 📑  
 
----
+## 🌍 View the Dashboard Online  
+🔗 **Explore the live Tableau dashboard here:** [Click to View](https://public.tableau.com/shared/G862S6WCR?:display_count=n&:origin=viz_share_link)
+
 
 Happy Exploring! 🚀📊  
-link to dashboard on Tableau Public
-https://public.tableau.com/shared/G862S6WCR?:display_count=n&:origin=viz_share_link
-**Created with ❤️ in Tableau**  
