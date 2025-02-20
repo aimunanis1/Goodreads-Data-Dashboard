@@ -1,4 +1,4 @@
-# 📚 Goodreads Data Dashboard 📊
+# 📚 Goodreads Data Dashboard  using Tableau📊
 
 Welcome to the **Goodreads Data Dashboard**, built using **Tableau**! This dashboard provides insights into books, authors, publishers, and ratings from Goodreads. Dive in and explore the world of literature through data! 📖✨  
 
